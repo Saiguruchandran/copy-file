@@ -33,7 +33,11 @@ copy(fname,newfile)
 ```
 
 ### OUTPUT:
+![WhatsApp Image 2024-01-03 at 00 16 06_35f0d621](https://github.com/Saiguruchandran/copy-file/assets/144870946/80fb853e-f03b-4b76-9d6a-56ffd9440dae)
 
+![WhatsApp Image 2024-01-03 at 00 16 22_c0762ce8](https://github.com/Saiguruchandran/copy-file/assets/144870946/0e244b5f-b841-4920-8989-074195d45fc4)
+
+![WhatsApp Image 2024-01-03 at 00 16 35_4d930d9e](https://github.com/Saiguruchandran/copy-file/assets/144870946/befc43c3-007c-48b5-8f6f-9a8c184c8c27)
 
 
 ## RESULT:
